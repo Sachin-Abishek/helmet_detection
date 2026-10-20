@@ -1,6 +1,6 @@
 # HelmNet: Safety Helmet Detection with CNNs and Transfer Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<repo-name>/blob/main/HelmNet.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Sachin-Abishek/helmet_detection/blob/main/HelmNet.ipynb)
 
 An image classification project that detects whether a worker is wearing a safety helmet. It compares a CNN built from scratch with three transfer-learning variants of VGG-16 on a small dataset of 631 images.
 
